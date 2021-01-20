@@ -13,4 +13,11 @@ public class B {
 
     @Autowired
     private A a;
+
+
+    private String str;
+
+    private String c;
+
+
 }
