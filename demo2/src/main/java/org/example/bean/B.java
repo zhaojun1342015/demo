@@ -20,4 +20,9 @@ public class B {
     private String c;
 
 
+    private String taga;
+
+    private String tagb;
+
+
 }
